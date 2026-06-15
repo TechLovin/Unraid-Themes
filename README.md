@@ -4,6 +4,12 @@ Custom glass-style themes for the Unraid WebUI with matching **Purple** and **Re
 
 These themes provide a modern translucent interface while preserving readability and the overall Unraid experience.
 
+<img width="1708" height="1278" alt="image" src="https://github.com/user-attachments/assets/cf7452ef-2b46-43d7-b1f5-a185f65e616e" />
+
+<img width="1708" height="1275" alt="image" src="https://github.com/user-attachments/assets/fafb8b0f-5f8b-49df-986b-83a8cccb91a9" />
+
+
+
 ## Features
 
 * Glass / frosted-glass dashboard widgets

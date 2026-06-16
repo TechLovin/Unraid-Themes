@@ -988,6 +988,18 @@ body > div.searchAreaHolder.menuAdjust * {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.65) !important;
 }
 
+
+/******************************************************
+ * Community Apps Card Description - Keep White
+ ******************************************************/
+
+.cardDesc,
+.ca_holder .cardDesc,
+.ca_holder .cardDescription .cardDesc {
+  color: #ffffff !important;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.65) !important;
+}
+
 /******************************************************
  * Community Apps Card Category - Keep White
  ******************************************************/

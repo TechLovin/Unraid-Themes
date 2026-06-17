@@ -47,13 +47,19 @@ If you use a different image location, update the CSS accordingly.
 
 ## Installation
 
-1.Switch Dark Theme > Settings > Display Settings > Dynamix color theme: Black
-2. Install the Custom CSS plugin from Comminity Apps.
-3. Copy the desired theme CSS file.
-4. Paste the contents into your Custom CSS configuration n the Black Theme Section (Not Global!).
-5. Save the configuration.
-6. Refresh the Unraid WebUI.
+1. Switch to the Dark Theme:  
+   **Settings > Display Settings > Dynamix color theme: Black**
 
+2. Install the **Custom CSS** plugin from **Community Apps**.
+
+3. Copy the desired theme CSS file.
+
+4. Paste the contents into your Custom CSS configuration in the **Black Theme** section.  
+   **Do not paste it into Global.**
+
+5. Save the configuration.
+
+6. Refresh the Unraid WebUI.
 ## Custom Background
 
 The themes expect a background image at:

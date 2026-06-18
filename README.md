@@ -12,9 +12,9 @@ Custom glass-style themes for the Unraid WebUI with matching **Purple** and **Re
 
 These themes provide a modern translucent interface while preserving readability and the overall Unraid experience.
 
-<img width="1708" height="1278" alt="image" src="https://github.com/TechLovin/Unraid-Themes/edit/main/Screenshot%202026-06-17%20190720.png" />
+<img width="1708" height="1278" alt="image" src="https://github.com/TechLovin/Unraid-Themes/blob/main/Screenshot%202026-06-17%20190720.png?raw=true" />
 
-<img width="1708" height="1275" alt="image" src="https://github.com/TechLovin/Unraid-Themes/edit/main/Screenshot%202026-06-17%20191045.png" />
+<img width="1708" height="1275" alt="image" src="https://github.com/TechLovin/Unraid-Themes/blob/main/Screenshot%202026-06-17%20191045.png?raw=true" />
 
 ## Features
 
